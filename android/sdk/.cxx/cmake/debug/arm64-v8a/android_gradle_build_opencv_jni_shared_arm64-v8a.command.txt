@@ -1,0 +1,7 @@
+Executable : /Users/davidmendelovits/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/davidmendelovits/Desktop/code/OpenCVToy/android/sdk/.cxx/cmake/debug/arm64-v8a
+opencv_jni_shared
+jvmArgs : 
+

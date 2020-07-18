@@ -1,0 +1,3 @@
+/Users/davidmendelovits/Desktop/code/OpenCVToy/android/sdk/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/davidmendelovits/Desktop/code/OpenCVToy/android/sdk/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/davidmendelovits/Desktop/code/OpenCVToy/android/sdk/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir
