@@ -25,7 +25,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import CameraScreen from './src/Screens/CameraSceen';
 
-class App extends Component<Props> {
+class App extends Component {
   render() {
     return (
       <CameraScreen />

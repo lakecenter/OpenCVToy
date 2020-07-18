@@ -123,6 +123,7 @@ export default class CameraScreen extends Component {
               }}
               style={styles.preview}
               permissionDialogTitle={'Permission to use camera'}
+              captureAudio={false}
               permissionDialogMessage={'We need your permission to use your camera phone'}
             >
               <View style={styles.takePictureContainer}>

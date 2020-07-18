@@ -28,6 +28,10 @@ build/
 .gradle
 local.properties
 *.iml
+android/sdk/
+sdk/
+app/src/main/jni
+jni/
 
 # node.js
 #
