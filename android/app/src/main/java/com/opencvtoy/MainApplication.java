@@ -76,7 +76,7 @@ public class MainApplication extends Application implements ReactApplication {
               {
                   super.onManagerConnected(status);
               } break ;
-          }
+          }2
       }
   };
   /**
